@@ -1,7 +1,12 @@
 html,
 body {
-    background-color:#7bedc7;
+    background-color:#0a593f;
     color: #5d5a5d;
+
+}
+
+.header{
+    color:#7bedc7;
 
 }
 .main-page {
