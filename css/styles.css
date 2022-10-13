@@ -9,5 +9,6 @@ body {
     color: blue;
 }
 .main-page {
+    width: 100%;
     background: linear-gradient(269.47deg, #A5DEFF 0.46%, rgba(252, 254, 255, 0) 100.85%);
 }
