@@ -1,9 +1,13 @@
-html
+html,
 body {
     background-color:#7bedc7;
     color: #5d5a5d;
 
 }
+
 .header{
     color: blue;
+}
+.main-page {
+    background: linear-gradient(269.47deg, #A5DEFF 0.46%, rgba(252, 254, 255, 0) 100.85%);
 }
